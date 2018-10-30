@@ -1,0 +1,26 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59767:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Sprint'd/out/production/Sprint'd Main
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 166 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 147 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 133 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 120 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 166 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 99 percent of capacity.
+With 8 devs working a 3 hour sprint, for 40 hrs/wk, we would be at 83 percent of capacity.
+-----------------------------------------------------------------------------------------------
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 189 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 168 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 151 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 138 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 189 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 114 percent of capacity.
+With 8 devs working a 3 hour sprint, for 35 hrs/wk, we would be at 95 percent of capacity.
+-----------------------------------------------------------------------------------------------
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 221 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 196 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 177 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 161 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 221 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 133 percent of capacity.
+With 8 devs working a 3 hour sprint, for 30 hrs/wk, we would be at 110 percent of capacity.
+
+Process finished with exit code 0
